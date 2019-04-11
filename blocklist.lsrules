@@ -8,15 +8,10 @@
       "modificationDate" : 1554948586.5576611,
       "owner" : "me",
       "process" : "any",
-      "remote-hosts" : "adservice.google.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554948550.3094978,
-      "modificationDate" : 1554948586.5583839,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "adservice.google.com.sg"
+      "remote-domains": [
+        "adservice.google.com",
+        "adservice.google.com.sg"
+      ]
     },
     {
       "action" : "deny",
