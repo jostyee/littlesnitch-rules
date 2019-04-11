@@ -1,0 +1,39 @@
+{
+  "description" : "",
+  "name" : "cdn",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1554947000.172859,
+      "modificationDate" : 1554947000.172859,
+      "owner" : "any",
+      "process" : "any",
+      "remote-domains": [
+        "akamaihd.net",
+        "akamaized.net",
+        "amazonaws.com",
+        "azureedge.net",
+        "bootstrapcdn.com",
+        "cdnjs.cloudflare.com",
+        "cloudfront.net",
+        "com.edgesuite.net",
+        "dropboxstatic.com",
+        "fastly.net",
+        "fbcdn.net",
+        "firebaseio.com",
+        "fonts.googleapis.com",
+        "fonts.gstatic.com",
+        "ggpht.com",
+        "githubusercontent.com",
+        "googleusercontent.com",
+        "googlevideo.com",
+        "gravatar.com",
+        "gstatic.com",
+        "pscdn.co",
+        "rackcdn.com",
+        "scdn.co",
+        "sndcdn.com"
+      ]
+    }
+  ]
+}
