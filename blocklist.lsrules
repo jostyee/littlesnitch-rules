@@ -1,5 +1,5 @@
 {
-  "description" : "",
+  "description" : "personal blocklist, subscribe via https://raw.githubusercontent.com/jostyee/littlesnitch-rules/master/blocklist.lsrules",
   "name" : "blocklist",
   "rules" : [
     {
