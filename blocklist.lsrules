@@ -500,6 +500,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "tracking.marketing"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554991903.3917341,
+      "modificationDate" : 1554991903.3917341,
+      "owner" : "me",
+      "process" : "\/Applications\/Firefox.app\/Contents\/MacOS\/firefox",
+      "remote-domains" : "tanx.com"
     }
   ]
 }
