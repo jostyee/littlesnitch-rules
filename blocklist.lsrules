@@ -504,10 +504,18 @@
     {
       "action" : "deny",
       "creationDate" : 1554991903.3917341,
-      "modificationDate" : 1554991903.3917341,
+      "modificationDate" : 1554991905.3917341,
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "tanx.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554991864.842423,
+      "modificationDate" : 1554991864.842423,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "kiwihk.net"
     }
   ]
 }
