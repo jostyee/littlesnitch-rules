@@ -187,7 +187,11 @@
       "modificationDate" : 1554953916.3442709,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "irs01.com"
+      "remote-domains" : [
+      	"irs01.com",
+      	"irs01.net",
+      	"irs09.com"
+      ]
     },
     {
       "action" : "deny",
@@ -522,6 +526,77 @@
         "hexagon-analytics.com",
         "hexagonanalytics.com"
       ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "adjust.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "amazon-adsystem.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "amplitude.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "app-measurement.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+      	"api.segment.io",
+      	"cdn.segment.com",
+      	"cdn-settings.segment.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+      	"js-agent.newrelic.com",
+      	"mobile-collector.newrelic.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "csi.gstatic.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992981.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "mixpanel.com"
     }
   ]
 }
