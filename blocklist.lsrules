@@ -1,0 +1,262 @@
+{
+  "description" : "",
+  "name" : "blocklist",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1554948553.9049811,
+      "modificationDate" : 1554948586.5576611,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "adservice.google.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948550.3094978,
+      "modificationDate" : 1554948586.5583839,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "adservice.google.com.sg"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554947090.6916709,
+      "modificationDate" : 1554947133.2995129,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "analytics.paddle.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948195.5585499,
+      "modificationDate" : 1554948586.5588322,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "analytics.twitter.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953152.8919439,
+      "modificationDate" : 1554953899.8673601,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "api.share.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554952990.057759,
+      "modificationDate" : 1554953899.8678288,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "btrace.video.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948187.2880878,
+      "modificationDate" : 1554948586.5593309,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "collector.githubapp.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948209.014956,
+      "modificationDate" : 1554948586.559875,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "hm.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554950214.020689,
+      "modificationDate" : 1554950299.04322,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "mail-ads.google.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554949560.2283769,
+      "modificationDate" : 1554950299.0324769,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "monitor.uu.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554952997.9818799,
+      "modificationDate" : 1554953899.868067,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "pingfore.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953166.6631498,
+      "modificationDate" : 1554953899.8682621,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "pingjs.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953167.7369161,
+      "modificationDate" : 1554953899.8684511,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "pingtas.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953154.539973,
+      "modificationDate" : 1554953899.8688331,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "push.zhanzhang.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953171.6960249,
+      "modificationDate" : 1554953899.8690281,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "report.huatuo.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953145.7863998,
+      "modificationDate" : 1554953899.869215,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "s.360.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948208.0884881,
+      "modificationDate" : 1554948586.560323,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "sp0.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948194.96984,
+      "modificationDate" : 1554948586.5607691,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "syndication.twitter.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554952983.5186582,
+      "modificationDate" : 1554953899.869411,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "trace.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953272.9696388,
+      "modificationDate" : 1554953916.3557439,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "xtgreat.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953189.7567801,
+      "modificationDate" : 1554953916.345727,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tencentmind.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953194.6402311,
+      "modificationDate" : 1554953916.345228,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "reachmax.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953207.449172,
+      "modificationDate" : 1554953916.3446929,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "miaozhen.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953142.7693319,
+      "modificationDate" : 1554953916.3442709,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "irs01.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554951913.638221,
+      "modificationDate" : 1554953916.3437769,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "huolinhe.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554951924.0152421,
+      "modificationDate" : 1554953916.343257,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "huo360.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948190.424186,
+      "modificationDate" : 1554948586.5700841,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "googletagservices.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554949424.743042,
+      "modificationDate" : 1554950299.0329309,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "googletagmanager.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554948169.094286,
+      "modificationDate" : 1554948586.5612381,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "ghostboard.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554947036.4566441,
+      "modificationDate" : 1554947079.467386,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "crashlytics.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953305.2595859,
+      "modificationDate" : 1554953916.3426571,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "cnzz.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953129.3257179,
+      "modificationDate" : 1554953916.341809,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "admaster.com.cn"
+    }
+  ]
+}
