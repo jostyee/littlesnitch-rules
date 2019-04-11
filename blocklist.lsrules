@@ -451,15 +451,10 @@
       "modificationDate" : 1554909397.5128579,
       "owner" : "me",
       "process" : "any",
-      "remote-hosts" : "pixel.wp.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554906418.9818649,
-      "modificationDate" : 1554909397.5138421,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "stats.wp.com"
+      "remote-hosts" : [
+        "pixel.wp.com",
+        "stats.wp.com"
+      ]
     },
     {
       "action" : "deny",
