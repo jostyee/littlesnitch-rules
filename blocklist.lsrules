@@ -613,6 +613,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "talkingdata.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992982.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "branch.io"
     }
   ]
 }
