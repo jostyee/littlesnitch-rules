@@ -252,6 +252,62 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "admaster.com.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554956072.3203349,
+      "modificationDate" : 1554956072.3203349,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "als.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554961531.5763221,
+      "modificationDate" : 1554961531.5763221,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "btrace.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554961714.4576011,
+      "modificationDate" : 1554961714.4576011,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "cpro.baidustatic.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554961727.9309559,
+      "modificationDate" : 1554961727.9309559,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "dup.baidustatic.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554961650.8257451,
+      "modificationDate" : 1554961650.8257451,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "eclick.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554956073.167711,
+      "modificationDate" : 1554956073.167711,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "nsclick.baidu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554961652.573555,
+      "modificationDate" : 1554961652.573555,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "pos.baidu.com"
     }
   ]
 }
