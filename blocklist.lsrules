@@ -436,6 +436,70 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "wrating.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554910317.5245039,
+      "modificationDate" : 1554910543.323029,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "analytics.agoda.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554906417.3172688,
+      "modificationDate" : 1554909397.5128579,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "pixel.wp.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554906418.9818649,
+      "modificationDate" : 1554909397.5138421,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "stats.wp.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554914154.3134151,
+      "modificationDate" : 1554914282.3227911,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "aaxads.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554914163.298492,
+      "modificationDate" : 1554914282.33202,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "aaxdetect.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554909822.2468591,
+      "modificationDate" : 1554909852.5091181,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "assoc-amazon.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554909814.6883512,
+      "modificationDate" : 1554909852.519119,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "glasslytics.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554905012.829874,
+      "modificationDate" : 1554909397.525737,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tracking.marketing"
     }
   ]
 }
