@@ -621,6 +621,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "branch.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554994007.6657939,
+      "modificationDate" : 1554994037.9912319,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "qidian.qq.com"
     }
   ]
 }
