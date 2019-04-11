@@ -516,6 +516,17 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "kiwihk.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992587.6175499,
+      "modificationDate" : 1554992587.6175499,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "hexagon-analytics.com",
+        "hexagonanalytics.com"
+      ]
     }
   ]
 }
