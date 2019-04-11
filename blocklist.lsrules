@@ -629,6 +629,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "qidian.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554996843.661761,
+      "modificationDate" : 1554996843.661761,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "growingio.com"
     }
   ]
 }
