@@ -5,7 +5,7 @@
     {
       "action" : "deny",
       "creationDate" : 1554948553.9049811,
-      "modificationDate" : 1554948586.5576611,
+      "modificationDate" : 1554955744.134541,
       "owner" : "me",
       "process" : "any",
       "remote-domains": [
