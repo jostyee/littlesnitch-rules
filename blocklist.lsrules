@@ -196,18 +196,13 @@
     {
       "action" : "deny",
       "creationDate" : 1554948190.424186,
-      "modificationDate" : 1554948586.5700841,
+      "modificationDate" : 1555053179.5959048,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "googletagservices.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554949424.743042,
-      "modificationDate" : 1554950299.0329309,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googletagmanager.com"
+      "remote-domains" : [
+        "googletagmanager.com",
+        "googletagservices.com"
+      ]
     },
     {
       "action" : "deny",
