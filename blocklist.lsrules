@@ -435,13 +435,14 @@
     {
       "action" : "deny",
       "creationDate" : 1554953152.8919439,
-      "modificationDate" : 1555053579.5959048,
+      "modificationDate" : 1555053779.5959048,
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
         "als.baidu.com",
         "api.share.baidu.com",
         "cpro.baidu.com",
+        "cpro2.baidu.com",
         "cpro.baidustatic.com",
         "dup.baidustatic.com",
         "eclick.baidu.com",
