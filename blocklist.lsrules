@@ -491,5 +491,13 @@
         "yt-adp.nosdn.127.net"
       ]
     },
+    {
+      "action" : "deny",
+      "creationDate" : 1555056810.1458921,
+      "modificationDate" : 1555056810.1458921,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "moatads.com"
+    }
   ]
 }
