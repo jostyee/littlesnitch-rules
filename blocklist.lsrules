@@ -23,14 +23,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554948195.5585499,
-      "modificationDate" : 1554948586.5588322,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "analytics.twitter.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554953152.8919439,
       "modificationDate" : 1554953899.8673601,
       "owner" : "me",
@@ -132,14 +124,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "sp0.baidu.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554948194.96984,
-      "modificationDate" : 1554948586.5607691,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "syndication.twitter.com"
     },
     {
       "action" : "deny",
@@ -706,6 +690,18 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "zhihu-web-analytics.zhihu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555053079.5959048,
+      "modificationDate" : 1555053079.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : [
+        "analytics.twitter.com",
+        "syndication.twitter.com",
+        "cdn.syndication.twimg.com"
+      ]
     }
   ]
 }
