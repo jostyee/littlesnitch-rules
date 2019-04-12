@@ -644,7 +644,10 @@
       "modificationDate" : 1555039145.0490189,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "sugar.zhihu.com"
+      "remote-domains" : [
+        "sugar.zhihu.com",
+        "zhihu-web-analytics.zhihu.com"
+      ]
     },
     {
       "action" : "deny",
@@ -677,14 +680,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "analytics.devontechnologies.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1555052882.699908,
-      "modificationDate" : 1555052882.699908,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "zhihu-web-analytics.zhihu.com"
     },
     {
       "action" : "deny",
