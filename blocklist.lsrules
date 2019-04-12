@@ -682,6 +682,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "anquan.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555051626.5520771,
+      "modificationDate" : 1555051626.5520771,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "advertising.com"
     }
   ]
 }
