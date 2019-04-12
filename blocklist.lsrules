@@ -658,6 +658,14 @@
         "umeng.cn",
         "umengcloud.com"
       ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555039145.0490189,
+      "modificationDate" : 1555039145.0490189,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "sugar.zhihu.com"
     }
   ]
 }
