@@ -391,18 +391,13 @@
     {
       "action" : "deny",
       "creationDate" : 1554963175.7792401,
-      "modificationDate" : 1554963175.7792401,
+      "modificationDate" : 1555053279.5959048,
       "owner" : "me",
       "process" : "any",
-      "remote-hosts" : "yt-adp.nosdn.127.net"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554963133.45241,
-      "modificationDate" : 1554963133.45241,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "yt-adp.ws.126.net"
+      "remote-hosts" : [
+        "yt-adp.ws.126.net",
+        "yt-adp.nosdn.127.net"
+      ]
     },
     {
       "action" : "deny",
@@ -641,7 +636,7 @@
     {
       "action" : "deny",
       "creationDate" : 1555039145.0490189,
-      "modificationDate" : 1555039145.0490189,
+      "modificationDate" : 1555053379.5959048,
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
