@@ -23,14 +23,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554953152.8919439,
-      "modificationDate" : 1554953899.8673601,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "api.share.baidu.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554952990.057759,
       "modificationDate" : 1554953899.8678288,
       "owner" : "me",
@@ -44,14 +36,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "collector.githubapp.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554948209.014956,
-      "modificationDate" : 1554948586.559875,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "hm.baidu.com"
     },
     {
       "action" : "deny",
@@ -95,14 +79,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554953154.539973,
-      "modificationDate" : 1554953899.8688331,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "push.zhanzhang.baidu.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554953171.6960249,
       "modificationDate" : 1554953899.8690281,
       "owner" : "me",
@@ -116,14 +92,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "s.360.cn"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554948208.0884881,
-      "modificationDate" : 1554948586.560323,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "sp0.baidu.com"
     },
     {
       "action" : "deny",
@@ -238,59 +206,11 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554956072.3203349,
-      "modificationDate" : 1554956072.3203349,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "als.baidu.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554961531.5763221,
       "modificationDate" : 1554961531.5763221,
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "btrace.qq.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554961714.4576011,
-      "modificationDate" : 1554961714.4576011,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "cpro.baidustatic.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554961727.9309559,
-      "modificationDate" : 1554961727.9309559,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "dup.baidustatic.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554961650.8257451,
-      "modificationDate" : 1554961650.8257451,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "eclick.baidu.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554956073.167711,
-      "modificationDate" : 1554956073.167711,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "nsclick.baidu.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554961652.573555,
-      "modificationDate" : 1554961652.573555,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "pos.baidu.com"
     },
     {
       "action" : "deny",
@@ -686,6 +606,26 @@
         "analytics.twitter.com",
         "syndication.twitter.com",
         "cdn.syndication.twimg.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953152.8919439,
+      "modificationDate" : 1555053579.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : [
+        "als.baidu.com",
+        "api.share.baidu.com",
+        "cpro.baidu.com",
+        "cpro.baidustatic.com",
+        "dup.baidustatic.com",
+        "eclick.baidu.com",
+        "hm.baidu.com",
+        "nsclick.baidu.com",
+        "pos.baidu.com",
+        "push.zhanzhang.baidu.com",
+        "sp0.baidu.com"
       ]
     }
   ]
