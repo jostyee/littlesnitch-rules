@@ -23,14 +23,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554952990.057759,
-      "modificationDate" : 1554953899.8678288,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "btrace.video.qq.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554948187.2880878,
       "modificationDate" : 1554948586.5593309,
       "owner" : "me",
@@ -47,59 +39,11 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554949560.2283769,
-      "modificationDate" : 1554950299.0324769,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "monitor.uu.qq.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554952997.9818799,
-      "modificationDate" : 1554953899.868067,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "pingfore.qq.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554953166.6631498,
-      "modificationDate" : 1554953899.8682621,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "pingjs.qq.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554953167.7369161,
-      "modificationDate" : 1554953899.8684511,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "pingtas.qq.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554953171.6960249,
-      "modificationDate" : 1554953899.8690281,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "report.huatuo.qq.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554953145.7863998,
       "modificationDate" : 1554953899.869215,
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "s.360.cn"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554952983.5186582,
-      "modificationDate" : 1554953899.869411,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "trace.qq.com"
     },
     {
       "action" : "deny",
@@ -203,14 +147,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "admaster.com.cn"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1554961531.5763221,
-      "modificationDate" : 1554961531.5763221,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "btrace.qq.com"
     },
     {
       "action" : "deny",
@@ -518,14 +454,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1554994007.6657939,
-      "modificationDate" : 1554994037.9912319,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "qidian.qq.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1554996843.661761,
       "modificationDate" : 1554996843.661761,
       "owner" : "me",
@@ -566,14 +494,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1555040642.9104009,
-      "modificationDate" : 1555040642.9104009,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "boss.qzone.qq.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1555042791.2584019,
       "modificationDate" : 1555042791.2584019,
       "owner" : "me",
@@ -602,7 +522,7 @@
       "modificationDate" : 1555053079.5959048,
       "owner" : "me",
       "process" : "any",
-      "remote-hosts" : [
+      "remote-domains" : [
         "analytics.twitter.com",
         "syndication.twitter.com",
         "cdn.syndication.twimg.com"
@@ -614,7 +534,7 @@
       "modificationDate" : 1555053579.5959048,
       "owner" : "me",
       "process" : "any",
-      "remote-hosts" : [
+      "remote-domains" : [
         "als.baidu.com",
         "api.share.baidu.com",
         "cpro.baidu.com",
@@ -626,6 +546,25 @@
         "pos.baidu.com",
         "push.zhanzhang.baidu.com",
         "sp0.baidu.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554952990.057759,
+      "modificationDate" : 1555053589.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "boss.qzone.qq.com",
+        "btrace.qq.com",
+        "btrace.video.qq.com",
+        "monitor.uu.qq.com",
+        "pingfore.qq.com",
+        "pingjs.qq.com",
+        "pingtas.qq.com",
+        "qidian.qq.com",
+        "report.huatuo.qq.com",
+        "trace.qq.com"
       ]
     }
   ]
