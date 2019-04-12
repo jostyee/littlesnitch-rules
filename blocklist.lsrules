@@ -637,6 +637,27 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "growingio.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555037385.4265461,
+      "modificationDate" : 1555037385.4265461,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "umdc.aliapp.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555037410.9143329,
+      "modificationDate" : 1555037410.9143329,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "umeng.com",
+        "umeng.co",
+        "umeng.cn",
+        "umengcloud.com"
+      ]
     }
   ]
 }
