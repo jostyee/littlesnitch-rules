@@ -1,0 +1,256 @@
+{
+  "description" : "personal blocklist, subscribe via https://raw.githubusercontent.com/jostyee/littlesnitch-rules/master/blocklist.lsrules",
+  "name" : "blocklist",
+  "rules" : [
+    {
+      "action" : "deny",
+      "creationDate" : 1554953145.7863998,
+      "modificationDate" : 1554953899.869215,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "s.360.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953272.9696388,
+      "modificationDate" : 1554953916.3557439,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "xtgreat.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953189.7567801,
+      "modificationDate" : 1554953916.345727,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tencentmind.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953194.6402311,
+      "modificationDate" : 1554953916.345228,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "reachmax.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953207.449172,
+      "modificationDate" : 1554953916.3446929,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "miaozhen.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953142.7693319,
+      "modificationDate" : 1554953916.3442709,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+      	"irs01.com",
+      	"irs01.net",
+      	"irs09.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554951913.638221,
+      "modificationDate" : 1554953916.3437769,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "huolinhe.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554951924.0152421,
+      "modificationDate" : 1554953916.343257,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "huo360.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953305.2595859,
+      "modificationDate" : 1554953916.3426571,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "cnzz.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953129.3257179,
+      "modificationDate" : 1554953916.341809,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "admaster.com.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554962665.298209,
+      "modificationDate" : 1554962665.298209,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : [
+        "im-x.jd.com",
+        "x.jd.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554962949.7366061,
+      "modificationDate" : 1554962949.7366061,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "wrating.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554909822.2468591,
+      "modificationDate" : 1554909852.5091181,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "assoc-amazon.cn"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554991903.3917341,
+      "modificationDate" : 1554991905.3917341,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "tanx.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554991864.842423,
+      "modificationDate" : 1554991864.842423,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "kiwihk.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992982.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "xdrig.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554992981.4885368,
+      "modificationDate" : 1554992982.4885368,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "talkingdata.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554996843.661761,
+      "modificationDate" : 1554996843.661761,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "growingio.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555037385.4265461,
+      "modificationDate" : 1555037385.4265461,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "umdc.aliapp.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555037410.9143329,
+      "modificationDate" : 1555037410.9143329,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "umeng.com",
+        "umeng.co",
+        "umeng.cn",
+        "umengcloud.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555039145.0490189,
+      "modificationDate" : 1555053379.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "sugar.zhihu.com",
+        "zhihu-web-analytics.zhihu.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555042791.2584019,
+      "modificationDate" : 1555042791.2584019,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "anquan.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554953152.8919439,
+      "modificationDate" : 1555053779.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "als.baidu.com",
+        "api.share.baidu.com",
+        "cpro.baidu.com",
+        "cpro2.baidu.com",
+        "cpro.baidustatic.com",
+        "dup.baidustatic.com",
+        "eclick.baidu.com",
+        "hm.baidu.com",
+        "nsclick.baidu.com",
+        "pos.baidu.com",
+        "push.zhanzhang.baidu.com",
+        "shifen.com",
+        "sp0.baidu.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554952990.057759,
+      "modificationDate" : 1555053589.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "boss.qzone.qq.com",
+        "btrace.qq.com",
+        "btrace.video.qq.com",
+        "monitor.uu.qq.com",
+        "pingfore.qq.com",
+        "pingjs.qq.com",
+        "pingtas.qq.com",
+        "qidian.qq.com",
+        "report.huatuo.qq.com",
+        "trace.qq.com"
+      ]
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1554952990.057759,
+      "modificationDate" : 1555053589.5959048,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : [
+        "analytics.163.com",
+        "g.163.com",
+        "h5.analytics.126.net",
+        "nex.163.com",
+        "sentry.music.163.com",
+        "vmonitor.ws.netease.com",
+        "webstat.ws.126.net",
+        "yt-adp.ws.126.net",
+        "yt-adp.nosdn.127.net"
+      ]
+    }
+  ]
+}
