@@ -1,6 +1,6 @@
 {
-  "description" : "personal blocklist, subscribe via https://raw.githubusercontent.com/jostyee/littlesnitch-rules/master/blocklist.lsrules",
-  "name" : "blocklist",
+  "description" : "personal blocklist for Chinese sites, subscribe via https://raw.githubusercontent.com/jostyee/littlesnitch-rules/master/blocklist.lsrules",
+  "name" : "blocklist-china",
   "rules" : [
     {
       "action" : "deny",
