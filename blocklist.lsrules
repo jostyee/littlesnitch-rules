@@ -514,6 +514,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "lightstep.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555058571.876524,
+      "modificationDate" : 1555058571.876524,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "api.instabug.com"
     }
   ]
 }
