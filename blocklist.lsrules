@@ -666,6 +666,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "sugar.zhihu.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555040642.9104009,
+      "modificationDate" : 1555040642.9104009,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "boss.qzone.qq.com"
     }
   ]
 }
