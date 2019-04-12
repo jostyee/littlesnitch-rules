@@ -498,6 +498,22 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "moatads.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555057563.0486732,
+      "modificationDate" : 1555057563.0486732,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "libring.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555057571.876524,
+      "modificationDate" : 1555057571.876524,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "lightstep.com"
     }
   ]
 }
