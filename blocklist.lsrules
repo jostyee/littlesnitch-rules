@@ -674,6 +674,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "boss.qzone.qq.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555042791.2584019,
+      "modificationDate" : 1555042791.2584019,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "anquan.org"
     }
   ]
 }
