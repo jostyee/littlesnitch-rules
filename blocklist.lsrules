@@ -690,6 +690,22 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "advertising.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555052892.207108,
+      "modificationDate" : 1555052892.207108,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "analytics.devontechnologies.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555052882.699908,
+      "modificationDate" : 1555052882.699908,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "zhihu-web-analytics.zhihu.com"
     }
   ]
 }
