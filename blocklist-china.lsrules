@@ -5,10 +5,13 @@
     {
       "action" : "deny",
       "creationDate" : 1554953145.7863998,
-      "modificationDate" : 1554953899.869215,
+      "modificationDate" : 1555953589.869215,
       "owner" : "me",
       "process" : "any",
-      "remote-hosts" : "s.360.cn"
+      "remote-hosts" : [
+        "3600.com",
+        "s.360.cn"
+      ]
     },
     {
       "action" : "deny",
