@@ -199,7 +199,7 @@
     {
       "action" : "deny",
       "creationDate" : 1554953152.8919439,
-      "modificationDate" : 1555053779.5959048,
+      "modificationDate" : 1555209756.970814,
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
@@ -210,6 +210,7 @@
         "cpro.baidustatic.com",
         "dup.baidustatic.com",
         "eclick.baidu.com",
+        "gsp0.baidu.com",
         "hm.baidu.com",
         "nsclick.baidu.com",
         "pos.baidu.com",
