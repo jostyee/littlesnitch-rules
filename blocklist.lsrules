@@ -272,6 +272,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "api.instabug.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555301619.7038209,
+      "modificationDate" : 1555301983.338171,
+      "owner" : "me",
+      "process" : "any",
+      "remote-hosts" : "gate.hockeyapp.net"
     }
   ]
 }
