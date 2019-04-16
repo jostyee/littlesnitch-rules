@@ -280,6 +280,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-hosts" : "gate.hockeyapp.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1555385355.5836689,
+      "modificationDate" : 1555385391.7090979,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "sentry-cdn.com"
     }
   ]
 }
