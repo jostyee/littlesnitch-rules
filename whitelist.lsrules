@@ -41,6 +41,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "wikipedia.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555602909.1785169,
+      "modificationDate" : 1555728933.021091,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "dropboxapi.com"
     }
   ]
 }
