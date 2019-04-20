@@ -1,0 +1,46 @@
+{
+  "description" : "",
+  "name" : "whitelist",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1555586369.424545,
+      "modificationDate" : 1555728539.989804,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "github.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555585803.1850429,
+      "modificationDate" : 1555728425.5610549,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "godoc.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555556058.1774569,
+      "modificationDate" : 1555728607.2197099,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "golang.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555055150.128242,
+      "modificationDate" : 1555055190.952419,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "wikimedia.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1555055145.324784,
+      "modificationDate" : 1555055190.961437,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "wikipedia.org"
+    }
+  ]
+}
