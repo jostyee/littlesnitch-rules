@@ -5,7 +5,7 @@
     {
       "action" : "allow",
       "creationDate" : 1554947000.172859,
-      "modificationDate" : 1554947000.172859,
+      "modificationDate" : 1554947020.172859,
       "owner" : "any",
       "process" : "any",
       "remote-domains": [
@@ -24,7 +24,6 @@
         "fonts.googleapis.com",
         "fonts.gstatic.com",
         "ggpht.com",
-        "githubusercontent.com",
         "googleusercontent.com",
         "googlevideo.com",
         "gravatar.com",
