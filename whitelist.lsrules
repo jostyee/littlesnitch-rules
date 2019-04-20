@@ -5,10 +5,14 @@
     {
       "action" : "allow",
       "creationDate" : 1555586369.424545,
-      "modificationDate" : 1555728539.989804,
+      "modificationDate" : 1555728559.989804,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "github.com"
+      "remote-domains" : [
+        "github.com",
+        "githubassets.com",
+        "githubusercontent.com",
+      ]
     },
     {
       "action" : "allow",
@@ -16,15 +20,10 @@
       "modificationDate" : 1555728425.5610549,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "godoc.org"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1555556058.1774569,
-      "modificationDate" : 1555728607.2197099,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "golang.org"
+      "remote-domains" : [
+        "godoc.org",
+        "golang.org"
+      ]
     },
     {
       "action" : "allow",
@@ -32,15 +31,10 @@
       "modificationDate" : 1555055190.952419,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "wikimedia.org"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1555055145.324784,
-      "modificationDate" : 1555055190.961437,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "wikipedia.org"
+      "remote-domains" : [
+        "wikimedia.org",
+        "wikipedia.org"
+      ]
     },
     {
       "action" : "allow",
