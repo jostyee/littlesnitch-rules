@@ -39,10 +39,14 @@
     {
       "action" : "allow",
       "creationDate" : 1555602909.1785169,
-      "modificationDate" : 1555728933.021091,
+      "modificationDate" : 1556442951.663583,
       "owner" : "me",
       "process" : "any",
-      "remote-domains" : "dropboxapi.com"
+      "remote-domains" : [
+        "dropboxapi.com",
+        "api.dropbox.com",
+        "api-content.dropbox.com"
+      ]
     }
   ]
 }
