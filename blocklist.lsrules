@@ -288,6 +288,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "sentry-cdn.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1557907541.715337,
+      "modificationDate" : 1557907565.651962,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "pingdom.net"
     }
   ]
 }
