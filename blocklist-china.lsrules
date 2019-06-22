@@ -225,19 +225,23 @@
     {
       "action" : "deny",
       "creationDate" : 1554952990.057759,
-      "modificationDate" : 1555053589.5959048,
+      "modificationDate" : 1555053689.5959048,
       "owner" : "me",
       "process" : "any",
       "remote-domains" : [
+        "adss.video.qq.com",
+        "beacon.qq.com",
         "boss.qzone.qq.com",
         "btrace.qq.com",
         "btrace.video.qq.com",
+        "huatuo.qq.com",
         "monitor.uu.qq.com",
         "pingfore.qq.com",
         "pingjs.qq.com",
         "pingtas.qq.com",
         "qidian.qq.com",
         "report.huatuo.qq.com",
+        "tencentmind.com",
         "trace.qq.com"
       ]
     },
