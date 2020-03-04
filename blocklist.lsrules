@@ -296,6 +296,14 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "pingdom.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1567907541.715337,
+      "modificationDate" : 1567907565.651962,
+      "owner" : "me",
+      "process" : "any",
+      "remote-domains" : "in.appcenter.ms"
     }
   ]
 }
